@@ -1,0 +1,5 @@
+{
+  "name": "@jmacera/cloudinary-image-upload",
+  "version": "0.1.2",
+  "exports": "./image-upload.ts"
+}

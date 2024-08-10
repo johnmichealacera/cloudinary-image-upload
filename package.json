@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^16.18.105",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "typescript": "4.9"
+  }
+}
